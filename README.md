@@ -6,6 +6,11 @@
 
 Green Oasis is a modern React-based e-commerce application focused on indoor plants. The application offers a curated selection of plants categorized by their uses and benefits, allowing users to explore and purchase plants that match their specific needs and preferences.
 
+Green Oasis is the final project of the course Developing Front-End Apps with React created by IBM, which is available on Coursera through Coursera.
+
+# Preview
+- [Click here for a preview!](https://karimelbasiouni.github.io/GreenOasis/)
+
 ## Features
 
 - **Landing Page**: Attractive welcome page with a "Get Started" button to navigate to the shop
